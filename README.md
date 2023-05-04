@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-I'm currently working on building functional web application that a user friendly 
+I'm currently working on building functional web application that are user friendly 
 
 
 ## 🌐 Socials:
